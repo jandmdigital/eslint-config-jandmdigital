@@ -1,31 +1,31 @@
 {
-   "name": "eslint-config-jandmdigital",
-   "version": "0.1.0",
-   "description": "ESLint configuration files used by J and M Digital",
-   "main": "index.js",
-   "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "lint": "eslint *.js"
-   },
-   "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jandmdigital/eslint-config-jandmdigital.git"
-   },
-   "keywords": [
-      "eslint"
-   ],
-   "author": "Jim Jenkins <jim@jandmdigital.com>",
-   "license": "MIT",
-   "bugs": {
-      "url": "https://github.com/jandmdigital/eslint-config-jandmdigital/issues"
-   },
-   "homepage": "https://github.com/jandmdigital/eslint-config-jandmdigital#readme",
-   "dependencies": {
-      "eslint-config-silvermine": "^1.1.2",
-      "eslint-plugin-html": "^2.0.1",
-      "eslint-plugin-react": "^6.10.3"
-   },
-   "devDependencies": {
-      "eslint": "^3.19.0"
-   }
+  "name": "eslint-config-jandmdigital",
+  "version": "0.1.1",
+  "description": "ESLint configuration files used by J and M Digital",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jandmdigital/eslint-config-jandmdigital.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Jim Jenkins <jim@jandmdigital.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jandmdigital/eslint-config-jandmdigital/issues"
+  },
+  "homepage": "https://github.com/jandmdigital/eslint-config-jandmdigital#readme",
+  "dependencies": {
+    "eslint-config-silvermine": "^1.1.2",
+    "eslint-plugin-html": "^2.0.1",
+    "eslint-plugin-react": "^6.10.3"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  }
 }
